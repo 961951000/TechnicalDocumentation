@@ -1,2 +1,3 @@
-- [sidenav](https://www.w3schools.com/howto/howto_js_sidenav.asp)
-- [bootstrap-sidebar](https://bootstrapious.com/tutorial/sidebar/index5.html)
+- https://www.w3schools.com/howto/howto_js_sidenav.asp
+- https://bootstrapious.com/tutorial/sidebar/index5.html
+- https://bootsnipp.com/tags/sidebar
