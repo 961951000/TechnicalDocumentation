@@ -3,3 +3,4 @@
 - https://bootsnipp.com/tags/sidebar
 - https://stackoverflow.com/questions/19397140/collapsing-sidebar-with-bootstrap-3
 - https://medium.com/wdstack/bootstrap-sidebar-examples-e363021395ff
+- https://www.bootply.com/EOgJSIzPGS
